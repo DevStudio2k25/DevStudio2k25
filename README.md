@@ -51,7 +51,7 @@ Our mission is to explore the future of development by launching real projects, 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DevStudio2k25&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 ![](https://nirzak-streak-stats.vercel.app/?user=DevStudio2k25&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api?username=DevStudio2k25&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DevStudio2k25&theme=radical&no-frame=false&no-bg=false&margin-w=4)
